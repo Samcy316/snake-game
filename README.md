@@ -1,5 +1,5 @@
 # snake-game
--install python
--pip install pygame
+'install python'
+'pip install pygame'
 
-play game
+*play game*
